@@ -9,3 +9,6 @@ A sleek and user-friendly Recipe App built with HTML, CSS, and JavaScript, lever
 <p>📸 Beautifully rendered images for every dish.</p>
 <p>🔄 Dynamic content powered by external recipe APIs.</p>
 
+<h1>🛠 Technologies</h1>
+<p>Frontend: HTML, CSS, JavaScript</p>
+<p>API: TheMealDB</p>
